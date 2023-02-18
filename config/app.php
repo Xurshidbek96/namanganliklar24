@@ -187,6 +187,7 @@ return [
          */
 
         App\Providers\MetaTagsServiceProvider::class,
+        Laravel\Passport\PassportServiceProvider::class,
 
         /*
          * Application Service Providers...
